@@ -8,7 +8,7 @@ Hierarchy coefficient for hypergraphs\
 ER-like Random graph model\
 Plotting the representing graph of a hypergraph with [Netwulf](https://pypi.org/project/netwulf/)
 
-Furthermore, we provide some of the protein data used in the manuscript (if licensing permits).
+Furthermore, we provide some of the protein data used in the manuscript.
 
 
 If used please cite:\
