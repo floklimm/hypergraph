@@ -10,7 +10,6 @@ Plotting the representing graph of a hypergraph with [Netwulf](https://pypi.org/
 
 Furthermore, we provide some of the protein data used in the manuscript.
 
-
 If used please cite:\
 Florian Klimm, Charlotte M. Deane, Gesine Reinert\
 Hypergraphs for predicting essential genes using multiprotein complex data
