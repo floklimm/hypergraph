@@ -17,5 +17,6 @@ Furthermore, we provide some of the protein data used in the manuscript.
 If used please cite:\
 Florian Klimm, Charlotte M. Deane, Gesine Reinert\
 Hypergraphs for predicting essential genes using multiprotein complex data
+[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.04.03.023937v1)
 
 ![alt text](./fig/proteinHypergraphV2.jpeg)
