@@ -38,3 +38,5 @@ smallHypergraphLocalClustering= localClusteringHypergraph(smalllHypergraph)
 
 
 
+
+L = read_edge_data('./../data/hypergraphProteins.out') # read the data
